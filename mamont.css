@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #87fdff;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+main h1 {
+    color: burlywood;
+    text-align: center;
+}
+
+footer {
+    background-color: crimson;
+    border-collapse: collapse;
+    border: lightsalmon 5px solid;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    margin-left: 20px;
+    background-color: royalblue;
+    text-decoration: none;
+    color: darkblue;
+    border-collapse: collapse;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+.link{
+    margin-left: 20%;
+}
+
+.product {
+    background-color: coral;
+    border-radius: 10px;
+    padding: 9px;
+}
+
+#discount {
+    color: royalblue;
+}
+
+.podarki {
+    height: 150px;
+    width: 400px;
+}
+
+.contacti {
+   text-decoration: none;
+   border-collapse: collapse;
+   border: 3px solid; 
+   padding: 10px;
+}
+
+.priobresti {
+    color: royalblue;
+}
